@@ -35,6 +35,7 @@ In my free time I like to improve and maintain my skills with personal projects.
 <img align="left" alt="MongoDB" width="50px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
 
 <br>
+
 ---
 
 ### Tools 🧰
@@ -53,6 +54,7 @@ In my free time I like to improve and maintain my skills with personal projects.
 <img align="left" alt="Figma" width="50px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg"/>
 
 <br>
+
 ---
 
 ## Stats 📊

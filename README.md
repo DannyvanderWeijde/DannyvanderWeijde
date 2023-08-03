@@ -12,7 +12,7 @@ In my free time I like to improve and maintain my skills with personal projects.
 
 ## Skills 💎
 
-### Languages
+### Languages 📚
 
 #### Experienced
 

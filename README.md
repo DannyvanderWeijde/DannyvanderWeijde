@@ -2,7 +2,7 @@
 
 **`Full-stack developer (Web developer/Internship Supervisor)`**
 
-Hello, I’m Danny van der Weijde a 23 year old full-stack developer based in North Brabant, the Netherlands. I currently work as a front-end developer at <a href="https://intermix.nl">Intermix Management B.V.</a> on their PIM project. I'm the lead front-ender for the PIM project.
+Hello, I’m Danny van der Weijde a 24 year old full-stack developer based in North Brabant, the Netherlands. I currently work as a front-end developer at <a href="https://intermix.nl">Intermix Management B.V.</a> on their PIM project. I'm the lead front-ender for the PIM project.
 
 I'm also the internship supervisor for the exam students. I help them on full-stack bases for there exams and play the roll as their 'client'.
 

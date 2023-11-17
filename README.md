@@ -43,10 +43,6 @@ In my free time I like to improve and maintain my skills with personal projects.
 <img align="left" alt="Visual studio code" width="50px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"/>
 <img align="left" alt="Figma" width="50px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/><br><br>
 
-#### Learing
-
-<img align="left" alt="Figma" width="50px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg"/><br><br>
-
 ---
 
 ## Stats 📊
